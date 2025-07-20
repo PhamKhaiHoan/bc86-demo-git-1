@@ -26,4 +26,4 @@ Branh
 +Tạo nhánh mới, nhánh mới sau khi tạo sẽ có nội   dung giống hoàn toàn so với nhánh gốc:
     - git checkout -b ten_nhanh_moi
 +Chyển nhánh
-    - git checkout ten_nhanh
+    - git checkout ten_nhanh.
